@@ -1,6 +1,6 @@
 [
 {
-"8bcce4db781516ef",
+"1193a79b01463a07",
 "username": "k2gaming",
 "password": "k2v1",
 "expiresAt":"2026-11-30",
@@ -8,6 +8,29 @@
 },
 {
 "id":"1193a79b01463a07",
+"username":"k2gaming",
+"password":"k2v1",
+"expiresAt":"2026-11-30",
+"allowOffline": false
+},
+  {
+"id":"android_device_id_2",
+"username":"user2",
+"password":"pass2",
+"expiresAt":"2026-11-30",
+"allowOffline": false
+},
+]
+[
+{
+"8bcce4db781516ef",
+"username": "k2gaming",
+"password": "k2v1",
+"expiresAt":"2026-11-30",
+"allowOffline": true
+},
+{
+"id":"8bcce4db781516ef",
 "username":"k2gaming",
 "password":"k2v1",
 "expiresAt":"2026-11-30",
