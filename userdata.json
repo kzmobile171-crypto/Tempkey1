@@ -6,6 +6,14 @@
     "expiresAt": "2026-11-30",
     "allowOffline": true
   },
+        
+  {
+    "id": "android_device_id_1",
+    "username": "user1",
+    "password": "pass",
+    "expiresAt": "2026-11-30",
+    "allowOffline": false
+  },
   {
     "id": "1193a79b01463a07",
     "username": "k2gaming",
